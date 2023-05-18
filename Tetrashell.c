@@ -1,4 +1,3 @@
-// I, Evan Menendez (730477174), pledge that I have neither given nor received unauthorized aid on this assignment.
 #include"tetris.h"
 #include<stdio.h>
 #include<stdio.h>
@@ -11,7 +10,7 @@
 #include<curses.h>
 
 
-//Stuff that is done: core functionality, improved prompts, undo last modify, list of functions, help, info, switch, quick-rank, pretty recover, pretty rank
+//Completed Commands: rank, recover, modify, check, exit, improved prompts, undo last modify, list of functions, help, info, switch, quick-rank, pretty recover, pretty rank
 
 struct TetrisGameState;
 
